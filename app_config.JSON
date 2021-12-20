@@ -1,0 +1,116 @@
+{
+  "version": "1.0-asset",
+  "notification_config": {
+    "enable": false,
+    "hour": "8",
+    "minute": "0",
+    "interval_in_hour": 24,
+    "title": "❤Have a nice day!!",
+    "content": "Let’s take selfies with beautiful features, filters, and effects!!!"
+  },
+  "ads_config": {
+    "enable": true,
+    "interval": 30
+  },
+  "ad_units": {
+    "full_splash": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-1266329057696784/6701316788"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "full_main_item": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-1266329057696784/2122109228"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "full_view_photo": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-1266329057696784/7631255077"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "full_save_edit_photo": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-1266329057696784/6126601710"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "full_save_collage": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-1266329057696784/4813520047"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "native_main": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-1266329057696784/6673396622"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "banner_gallery": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-1266329057696784/9873440884"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "banner_collage": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-1266329057696784/8861927336"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "native_success": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-1266329057696784/6235763995"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    }
+  }
+}
